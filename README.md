@@ -83,21 +83,21 @@ npm start
 
 Create a .env file in the backend folder and configure the following:
 
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-CLOUDINARY_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
+1.MONGO_URI=your_mongodb_connection
+2.JWT_SECRET=your_secret_key
+3.CLOUDINARY_NAME=your_cloud_name
+4.CLOUDINARY_API_KEY=your_api_key
+5.CLOUDINARY_API_SECRET=your_api_secret
 
 -----------------------------------------------------------------------------
 
 📌 Future Enhancements
 
-Payment gateway integration (Razorpay / Stripe)
-Order tracking system
-Product reviews and ratings
-Wishlist feature
-Admin dashboard improvements
+1.Payment gateway integration (Razorpay / Stripe)
+2.Order tracking system
+3.Product reviews and ratings
+4.Wishlist feature
+5.Admin dashboard improvements
 
 ---------------------------------------------------------------------------------
 
